@@ -21,7 +21,7 @@
   </div>
   <router-view />
   <div class="footer">
-    <a href="https://github.com/BYU-CS-260-Winter-2020/lab-3b-grocery-store-lathorne">https://github.com/BYU-CS-260-Winter-2020/lab-3b-grocery-store-lathorne</a>
+    <a href="https://github.com/lathorne/creative-3">https://github.com/lathorne/creative-3</a>
   </div>
 </div>
 </template>
